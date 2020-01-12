@@ -1,0 +1,1 @@
+scoreboard players add Game TimeCounter 1
