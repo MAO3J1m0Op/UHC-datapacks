@@ -1,0 +1,7 @@
+{
+    "values": [
+        "uhc:src/init",
+        "uhc:src/counter/init",
+        "uhc:src/teams/init"
+    ]
+}

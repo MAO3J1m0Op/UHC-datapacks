@@ -1,0 +1,9 @@
+{
+    "values": [
+        "uhc:src/handle_joins",
+        "uhc:src/counter/increment",
+        "uhc:src/counter/countdown",
+        "uhc:src/counter/countup",
+        "uhc:src/counter/sudden_death"
+    ]
+}
