@@ -1,1 +1,1 @@
-say hi
+tellraw @s ["",{"text":"Welcome to UHC!","bold":true,"color":"gold"},{"text":"\nUltra-Hardcore (UHC) is a player vs player deathmatch in a vanilla world.\n"},{"text":" - Health does not regenerate (besides Golden Apples)\n - The game is on Hard mode.\n - Entering the nether is not allowed.","color":"red"},{"text":"\n"},{"text":"Good luck, have fun!","color":"green"}]
