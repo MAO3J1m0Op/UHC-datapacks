@@ -2,6 +2,7 @@
     "values": [
         "uhc:src/init",
         "uhc:src/counter/init",
-        "uhc:src/teams/init"
+        "uhc:src/teams/init",
+        "uhc:team_message"
     ]
 }
