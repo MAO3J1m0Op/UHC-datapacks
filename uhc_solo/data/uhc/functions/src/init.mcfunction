@@ -1,4 +1,5 @@
 # UHC Game rules
+gamerule announceAdvancements false
 gamerule naturalRegeneration false
 difficulty hard
 
