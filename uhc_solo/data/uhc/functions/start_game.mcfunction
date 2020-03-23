@@ -1,5 +1,5 @@
 # Spreads all the players randomly centered on a random player.
-execute as @r[gamemode=adventure] run spreadplayers ~ ~ 100 1000 false @a[gamemode=adventure]
+execute as @r[gamemode=adventure] run spreadplayers ~ ~ 100 500 false @a[gamemode=adventure]
 
 # Time resumes once the game has started
 gamerule doDaylightCycle true
