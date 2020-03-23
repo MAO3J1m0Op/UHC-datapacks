@@ -8,6 +8,6 @@ effect give @s minecraft:weakness 1000000 255
 effect give @s minecraft:mining_fatigue 1000000 255
 
 # Welcome message
-# TODO
+function uhc:src/welcome
 
 gamemode adventure @s
