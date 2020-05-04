@@ -4,6 +4,6 @@
         "uhc:src/counter/increment",
         "uhc:src/counter/countdown",
         "uhc:src/counter/countup",
-        "uhc:src/counter/sudden_death"
+        "uhc:src/counter/sudden_death/announce"
     ]
 }
