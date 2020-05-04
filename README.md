@@ -14,7 +14,7 @@ UHC is a player-vs-player (PvP) gamemode where each player is thrown into a norm
 1. Generate a new Vanilla world.
 2. Exit the world.
 3. Open the world folder by pressing `EDIT -> OPEN WORLD FOLDER`.
-4. Paste [uhc_solo](uhc_solo) or [uhc_teams](uhc_teams) datapack into the `datapacks` folder of the world you created.
+4. Paste [uhc_solo](uhc_solo) or [uhc_teams](uhc_teams) datapack into the `datapacks` folder of the world you created. If desired, you may also add the [uhc_speed](uhc_speed) datapack into this folder alongside one of the other datapacks.
 5. Open the world to the public.
 6. Run the command `/function uhc:start_game` to begin the game!
 
@@ -25,6 +25,9 @@ If you find that the slow early-game pace of UHC is not fast enough, add the [uh
 1. All players have haste II for the duration of the game for faster mining speeds.
 2. To prevent players waiting for furnaces to cook, iron and gold ores drop their respective ingots, and animals by default drop cooked meat.
 3. Breaking kelp has a chance of giving dried kelp.
+4. After 1 hour of regular gameplay, all players will be teleported to a random location in the world and will battle until one player remains. This is called The Arena.
+
+Please note that uhc_speed will not function properly as a standalone. There must be either uhc_solo or uhc_teams loaded in the world alongside this pack.
 
 ## Differences between uhc_solo and uhc_teams
 
