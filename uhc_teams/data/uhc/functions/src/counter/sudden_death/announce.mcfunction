@@ -15,4 +15,4 @@ execute as @a if score Game TimeCounter matches 106800 run tellraw @s [{"text":"
 
 # 90 minutes in: sudden death begins
 execute as @a if score Game TimeCounter matches 108000 run tellraw @s [{"text":"[Sudden Death]"},{"text":" World Size is now shrinking fast! Get to the center!","color":"dark_red"}]
-execute as @p if score Game TimeCounter matches 108000 run worldborder set 3 120
+execute as @p if score Game TimeCounter matches 108000 run function uhc:src/counter/begin
